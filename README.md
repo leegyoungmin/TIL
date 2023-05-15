@@ -10,4 +10,4 @@
 | ---- | ---- |
 | 5.13 | [EnvironmentValues](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2012%EC%9D%BC.md) |
 | 5.14 | [Property Wrapper](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2013%EC%9D%BC.md) |
-| 5.16 | [Core Data in SwiftUI]() |
+| 5.16 | [Core Data in SwiftUI](https://github.com/leegyoungmin/TIL/blob/master/23년/5월/5월%2015일.md) |
