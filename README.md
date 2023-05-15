@@ -8,5 +8,6 @@
 
 | 구분 | 내용 |
 | ---- | ---- |
-| 5.12 | [EnvironmentValues](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2012%EC%9D%BC.md) |
-| 5.12 | [Property Wrapper](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2013%EC%9D%BC.md) |
+| 5.13 | [EnvironmentValues](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2012%EC%9D%BC.md) |
+| 5.14 | [Property Wrapper](/23%EB%85%84/5%EC%9B%94/5%EC%9B%94%2013%EC%9D%BC.md) |
+| 5.16 | [Core Data in SwiftUI]() |
